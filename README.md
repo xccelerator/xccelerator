@@ -1,6 +1,4 @@
-
-![Header](https://github.com/xccelerator/xccelerator/blob/main/files/banner.png "Header")
-
+<img src="https://github.com/xccelerator/xccelerator/blob/main/files/banner.png"></img>
 
 
 <br>
