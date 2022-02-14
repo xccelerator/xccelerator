@@ -27,13 +27,10 @@
 
 # My GitHub Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xccelerator=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xccelerator&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xccelerator&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xccelerator)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=xccelerator&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xccelerator&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
 
 <!--
 **xccelerator/xccelerator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
