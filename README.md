@@ -1,4 +1,4 @@
-<img src="https://github.com/xccelerator/xccelerator/blob/main/files/banner.png"></img>
+<img src="https://github.com/xccelerator/xccelerator/blob/main/files/banner2.png"></img>
 
 <hr/>
 
@@ -32,6 +32,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xccelerator&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
+#Language & Tools
 <!--
 **xccelerator/xccelerator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
