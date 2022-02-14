@@ -2,9 +2,9 @@
 
 <hr/>
 
-#About Me:
+# About Me:
 
-###-19years old Machine Learning & Artificial Intelligence Enthusiast
+### -19years old Machine Learning & Artificial Intelligence Enthusiast
 
 <img src="https://github.com/xccelerator/xccelerator/blob/main/files/5ad984a1de7345d4a8d277d8c0716897.jpg" alt="side Image" align="right" width="200" height="auto" />
 
