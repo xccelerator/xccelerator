@@ -1,4 +1,4 @@
-<img src="https://github.com/xccelerator/xccelerator/blob/main/files/banner3.png"></img>
+<img src="https://github.com/xccelerator/xccelerator/blob/main/files/banner.png"></img>
 
 <hr/>
 
