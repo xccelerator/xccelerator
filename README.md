@@ -22,6 +22,13 @@
 ### - Contact me:
 - If you want to reach out to me about anything, then find someone else.
 
+
+<hr/>
+
+# My GitHub Stats:
+
+
+
 <!--
 **xccelerator/xccelerator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
