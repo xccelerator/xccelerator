@@ -31,3 +31,5 @@
 <hr/>
 
 # Language & Tools
+
+<img src="https://img.shields.io/badge/OS-Windows-white?logo=windows"></img>
