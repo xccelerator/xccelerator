@@ -1,5 +1,5 @@
 
-<h1 align="center">![Header](https://github.com/xccelerator/xccelerator/blob/main/files/banner.png "Header")</h1>
+![Header](https://github.com/xccelerator/xccelerator/blob/main/files/banner.png "Header")
 
 
 
